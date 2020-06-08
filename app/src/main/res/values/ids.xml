@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="female_dresses" type="id" />
+    <item name="sports_t_shirts" type="id" />
+    <item name="sweathers" type="id" />
+    <item name="purses_bags_wallets" type="id" />
+    <item name="shoes" type="id" />
+    <item name="hats_caps" type="id" />
+    <item name="glasses" type="id" />
+    <item name="headphones_handfree" type="id" />
+    <item name="mobilephones" type="id" />
+    <item name="watches" type="id" />
+    <item name="laptop_pc" type="id" />
+    <item name="t_shirts" type="id" />
+</resources>
